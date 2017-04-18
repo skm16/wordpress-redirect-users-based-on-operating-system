@@ -18,7 +18,7 @@ Allows admins to create custom redirects based the user\'s operating system for 
 Which operating systems does this plugin support?
 Currently this plugin detects most Mac, Windows and Linux operating systems.
 
-Does the plugin support custom fields?
+Does the plugin support custom post types?
 No, not currently.
 
 == Screenshots ==
